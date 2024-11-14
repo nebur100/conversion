@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Don Quijote de la Mancha</title>
+        <author>Miguel de Cervantes</author>
+        <year>1605</year>
+        <genre>Novela</genre>
+    </book>
+    <book>
+        <title>Cien años de soledad</title>
+        <author>Gabriel García Márquez</author>
+        <year>1967</year>
+        <genre>Realismo Mágico</genre>
+    </book>
+    <book>
+        <title>La sombra del viento</title>
+        <author>Carlos Ruiz Zafón</author>
+        <year>2001</year>
+        <genre>Misterio</genre>
+    </book>
+</library>
